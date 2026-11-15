@@ -1,0 +1,11 @@
+
+{
+  "name": "My Repeating Tasks",
+  "short_name": "My Tasks",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f4f8",
+  "theme_color": "#2457a7",
+  "description": "My personal repeating task timer"
+}
